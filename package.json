@@ -1,0 +1,15 @@
+{
+  "name": "nodjs_study_code",
+  "version": "1.0.0",
+  "description": "this is test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello world"
+  },
+  "keywords": [
+    "lance",
+    "che"
+  ],
+  "author": "lance che",
+  "license": "ISC"
+}
