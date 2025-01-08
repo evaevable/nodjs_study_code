@@ -13,6 +13,7 @@
   "author": "lance che",
   "license": "ISC",
   "dependencies": {
-    "eventproxy": "^1.0.0"
+    "eventproxy": "^1.0.0",
+    "heapdump": "^0.3.15"
   }
 }
