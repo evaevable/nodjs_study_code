@@ -11,5 +11,8 @@
     "che"
   ],
   "author": "lance che",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "eventproxy": "^1.0.0"
+  }
 }
